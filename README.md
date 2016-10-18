@@ -179,5 +179,11 @@ node('Master') {
 }
 ```
 
+### Related DevOps Products:
+* [Learning DevOps: Continuously Deliver Better Software](https://www.packtpub.com/networking-and-servers/learning-devops-continuously-deliver-better-software?utm_source=github&utm_medium=repository&utm_content=9781787126619)
+* [DevOps Automation Cookbook](https://www.packtpub.com/virtualization-and-cloud/continuous-delivery-and-devops-quickstart-guide?utm_source=github&utm_medium=repository&utm_content=9781849693684)
+* [Learning Chef](https://www.packtpub.com/networking-and-servers/learning-chef?utm_source=github&utm_medium=repository&utm_content=9781783285211)
+
+
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
