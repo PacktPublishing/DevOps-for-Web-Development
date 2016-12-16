@@ -3,7 +3,7 @@ This is the code repository for [DevOps for Web Development](https://www.packtpu
 
 ## Instructions and Navigation
 
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, `Chapter 2`. 
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, `Chapter02`. 
 
 Code Snippet:
 ```
