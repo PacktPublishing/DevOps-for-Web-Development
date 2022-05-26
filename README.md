@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B05561?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/DevOps-for-Web-Development.svg)](https://github.com/PacktPublishing/DevOps-for-Web-Development/issues)   [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/DevOps-for-Web-Development.svg)](https://github.com/PacktPublishing/DevOps-for-Web-Development/network)   [![GitHub stars](https://img.shields.io/github/stars/PacktPublishing/DevOps-for-Web-Development.svg)](https://github.com/PacktPublishing/DevOps-for-Web-Development/stargazers)   [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/PacktPublishing/DevOps-for-Web-Development/master/LICENSE)
 
 # DevOps for Web Development
